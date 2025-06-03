@@ -1,9 +1,9 @@
 package CreationalPatterns.Prototype_1.Vehicles;
 
 public abstract class Vehicle {
-    private String model;
-    private String color;
-    private String brand;
+    protected String model;
+    protected String color;
+    protected String brand;
 
     protected Vehicle(Vehicle vehicle)
     {

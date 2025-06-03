@@ -1,7 +1,7 @@
 package CreationalPatterns.Prototype_1.Vehicles;
 
 public class Bus extends Vehicle {
-    private int doors;
+    protected int doors;
 
     public Bus(Bus bus){
         super(bus);
@@ -9,6 +9,7 @@ public class Bus extends Vehicle {
     }
     @Override
     public Bus clone(){
+
         return new Bus(this);
     }
 }

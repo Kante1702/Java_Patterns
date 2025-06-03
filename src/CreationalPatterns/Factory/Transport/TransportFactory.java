@@ -1,6 +1,4 @@
-package CreationalPatterns.Factory;
-
-import CreationalPatterns.Prototype_1.Vehicles.Bus;
+package CreationalPatterns.Factory.Transport;
 
 public class TransportFactory {
     public Transport createTransport(String type) {

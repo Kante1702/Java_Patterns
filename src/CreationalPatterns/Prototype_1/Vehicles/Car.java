@@ -2,10 +2,10 @@ package CreationalPatterns.Prototype_1.Vehicles;
 
 public class Car extends Vehicle {
 
-    private String model;
-    private String color;
-    private String brand;
-    private int topSpeed;
+    protected String model;
+    protected String color;
+    protected String brand;
+    protected int topSpeed;
 
     public Car(Car car){
         super(car);

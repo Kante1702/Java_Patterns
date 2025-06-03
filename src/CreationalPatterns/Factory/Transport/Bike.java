@@ -1,4 +1,4 @@
-package CreationalPatterns.Factory;
+package CreationalPatterns.Factory.Transport;
 
 public class Bike implements Transport{
     @Override
