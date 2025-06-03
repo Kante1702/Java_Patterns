@@ -1,0 +1,4 @@
+Prototype
+Vytvára nový objekt klonovaním existujúceho objektu.
+Používa sa, keď je vytvorenie objektu nákladné alebo zložité.
+Príklad: Hra, kde sa postavy kopírujú z existujúcej šablóny.

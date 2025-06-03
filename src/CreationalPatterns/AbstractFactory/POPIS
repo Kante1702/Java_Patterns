@@ -1,0 +1,4 @@
+Proxy
+Zástupca pre iný objekt, ktorý kontroluje prístup alebo ho nahrádza.
+Používa sa napríklad na lazy loading, ochranu alebo logovanie.
+Príklad: Obrázok sa nenačíta hneď – proxy objekt sa správa ako obrázok a načíta ho až keď treba.

@@ -1,0 +1,4 @@
+Chain of Responsibility
+Umožňuje odovzdávať požiadavku cez reťaz spracovateľov, kým ju niektorý nevybaví.
+Používa sa, keď nechceme pevne určiť, kto požiadavku vybaví.
+Príklad: Rôzne úrovne podpory – ak to nevyrieši prvá, ide to na ďalšiu.

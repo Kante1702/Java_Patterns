@@ -1,0 +1,4 @@
+Adapter  
+Prepojí dve nekompatibilné rozhrania.  
+Používa sa, keď chceš, aby trieda fungovala s rozhraním, ktoré pôvodne nepodporuje.  
+Príklad: Starý konektor funguje s novým zariadením, napríklad USB-C adaptér pre staré nabíjačky.

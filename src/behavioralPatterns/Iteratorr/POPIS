@@ -1,0 +1,4 @@
+Iterator
+Poskytuje spôsob, ako prechádzať prvky kolekcie bez toho, aby sme odhalili jej vnútornú reprezentáciu.
+Používa sa, keď chceme zjednodušiť prechod cez zložité štruktúry.
+Príklad: Prechádzanie zoznamu, množiny alebo stromu rovnakým spôsobom.

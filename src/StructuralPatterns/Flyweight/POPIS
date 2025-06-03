@@ -1,0 +1,4 @@
+Flyweight
+Šetrí pamäť zdieľaním rovnakých inštancií pre opakované objekty.
+Používa sa, keď je veľa podobných objektov.
+Príklad: Textový editor, kde všetky písmená "a" zdieľajú jednu inštanciu písmena.

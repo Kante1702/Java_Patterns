@@ -1,0 +1,4 @@
+State
+Umožňuje objektu meniť svoje správanie podľa svojho vnútorného stavu.
+Používa sa, keď má objekt viac režimov fungovania.
+Príklad: Automat na lístky – správa sa inak pri vložení mince, výbere sumy alebo vydaní lístka.

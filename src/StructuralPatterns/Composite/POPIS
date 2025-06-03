@@ -1,0 +1,4 @@
+Composite
+Zjednocuje jednotlivé objekty a ich zloženiny do jednej štruktúry.
+Používa sa pre stromové štruktúry, kde listy a kontajnery majú rovnaké rozhranie.
+Príklad: Systém súborov (súbor a priečinok).

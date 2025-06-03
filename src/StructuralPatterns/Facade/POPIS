@@ -1,0 +1,4 @@
+Facade
+Poskytuje zjednodušené rozhranie k zložitému systému.
+Skryje detaily viacerých subsystémov.
+Príklad: Tlačidlo uložiť, ktoré zavolá viacero služieb pod kapotou.

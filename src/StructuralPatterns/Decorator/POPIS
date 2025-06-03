@@ -1,0 +1,4 @@
+Decorator
+Dynamicky pridáva novú funkcionalitu objektu bez zmeny jeho triedy.
+Zabaľuje objekt do nových vrstiev.
+Príklad: Textový výstup, ktorý pridáva rámčeky, farby alebo odsadenie.

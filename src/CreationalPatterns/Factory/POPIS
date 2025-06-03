@@ -1,0 +1,4 @@
+Factory Method
+Definuje rozhranie na vytvorenie objektu, ale ponecháva podtriedam, aby určili konkrétny typ objektu.
+Používa sa, keď chceme nechať rozhodnutie o tom, aký objekt sa vytvorí, na podtriedu.
+Príklad: Vytvorenie dokumentu – každá podtrieda vytvorí iný typ dokumentu (Text, PDF, HTML).

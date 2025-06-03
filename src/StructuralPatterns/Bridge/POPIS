@@ -1,0 +1,4 @@
+Bridge
+Oddelí abstrakciu od implementácie, aby sa mohli vyvíjať nezávisle.
+Umožňuje meniť implementácie bez zmeny rozhrania.
+Príklad: Ovládanie rôznych typov zariadení (napríklad TV a rádio) pomocou rovnakého ovládača.

@@ -1,0 +1,4 @@
+Singleton
+Zaručuje, že trieda má len jednu inštanciu a poskytuje k nej globálny prístup.
+Používa sa, keď chceme zabezpečiť, že systém má len jeden objekt daného typu.
+Príklad: Správca konfigurácie alebo logger v aplikácii.

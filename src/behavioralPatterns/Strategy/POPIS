@@ -1,0 +1,4 @@
+Strategy
+Definuje rodinu algoritmov, ktoré sú zameniteľné.
+Používa sa, keď chceme dynamicky zmeniť spôsob správania objektu.
+Príklad: Triedenie – môžeme si vybrať algoritmus podľa situácie (QuickSort, MergeSort).

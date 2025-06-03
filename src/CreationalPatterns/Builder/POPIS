@@ -1,0 +1,4 @@
+Builder
+Oddelí tvorbu zložitého objektu od jeho reprezentácie.
+Používa sa, keď má objekt veľa voliteľných parametrov alebo častí.
+Príklad: Stavba domu krok po kroku – najprv múry, potom strecha, potom interiér.
