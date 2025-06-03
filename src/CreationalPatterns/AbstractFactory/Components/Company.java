@@ -1,4 +1,4 @@
-package CreationalPatterns.AbstractFactory;
+package CreationalPatterns.AbstractFactory.Components;
 
 public abstract class Company {
     public abstract Monitor createMonitor();

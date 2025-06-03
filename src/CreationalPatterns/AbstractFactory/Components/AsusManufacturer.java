@@ -1,4 +1,4 @@
-package CreationalPatterns.AbstractFactory;
+package CreationalPatterns.AbstractFactory.Components;
 
 public class AsusManufacturer extends Company {
 
